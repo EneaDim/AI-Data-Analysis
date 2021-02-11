@@ -5,6 +5,7 @@ Data are downloaded from the <b>Genomic Data Common Portal</b> (https://portal.g
 The Project folder is structured in the following way:
 
 - ipynb folder contain all the codes: 
+				
 				- Genomics\_mRNAClassification -> Contains the code that analyze Gene Expression.
 				
 				- manifestFiltering -> Contains the code that filter out the WSImages manifest.
