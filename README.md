@@ -6,7 +6,7 @@ The Project folder is structured in the following way:
 
 - ipynb folder contain all the codes: 
 				
-				- Genomics\_mRNAClassification -> Contains the code that analyze Gene Expression.
+				- Genomics_mRNAClassification -> Contains the code that analyze Gene Expression.
 				
 				- manifestFiltering -> Contains the code that filter out the WSImages manifest.
 				
