@@ -15,14 +15,13 @@ The Project folder is structured in the following way:
 
 - ipynb folder contain all the codes: 
 				
-				- Genomics_mRNAClassification -> Contains the code that analyze Gene Expression.
+	``` Genomics_mRNAClassification: Contains the code that analyze Gene Expression. ```
 				
-				- manifestFiltering -> Contains the code that filter out the WSImages manifest.
+	``` manifestFiltering: Contains the code that filter out the WSImages manifest. ```
 				
-				- WSI_ImageClassification -> Contains the code that analyze Whole Slide Images.
+	``` WSI_ImageClassification: Contains the code that analyze Whole Slide Images.```
 				
-				- ConsensusClassifier -> Contains the code that integrate the analysis of Gene
-							       Expression and WSI in a Consensus Classifier.
+	``` ConsensusClassifier: Contains the code that integrates Gene Expression and WSI analysis in a Consensus Classifier.```
 
 - csv\_Results folder contain the results of the IMPROVEMENT.
 
